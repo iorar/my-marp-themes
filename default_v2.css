@@ -1,12 +1,12 @@
-/* @theme default_v2 */
+/* @theme default_v21 */
 
 @import "default";
 
 /* クラス名未指定全スライド共通設定 */
 section {
     /* フォント指定 */
-    font-family: "Yu Gothic UI", "Noto Sans JP", Arial,
-        Cica, Meiryo, sans-serif;
+    font-family: "游ゴシック", "Noto Sans JP", Cica, Arial,
+        Meiryo, sans-serif;
 
     /* スライドのサイズを指定 デフォルトでは16:9 */
     width: 100%;
