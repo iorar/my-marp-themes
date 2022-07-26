@@ -5,7 +5,7 @@
 /* クラス名未指定全スライド共通設定 */
 section {
     /* フォント指定 */
-    font-family: "Noto Sans JP", Arial, "Noto Sans JP",
+    font-family: "Yu Gothic UI", "Noto Sans JP", Arial,
         Cica, Meiryo, sans-serif;
 
     /* スライドのサイズを指定 デフォルトでは16:9 */
